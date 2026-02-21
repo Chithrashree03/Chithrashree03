@@ -1,5 +1,5 @@
 # Hi👋🏻 I'm Chithrashree M S :
-I'm BSc graduated in Mathematics & Computer Science from Mysore University, passionate about solving complex problems through data-driven and computational approaches. Skilled in Python, SQL, Discrete Mathematics, and Data science
+I'm pursuing Master of Computer Application at JSS college of Mysore, passionate about solving complex problems through data-driven and computational approaches. Skilled in Python, Data Structure, Discrete Mathematics, and Data science.
 
 
 ## 🌐 Socials:
